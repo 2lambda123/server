@@ -279,4 +279,3 @@
 	};
 	OCA.Files.FileSummary = FileSummary;
 })();
-

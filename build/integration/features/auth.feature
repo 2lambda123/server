@@ -110,4 +110,3 @@ Feature: auth
 	Scenario: Creating an unrestricted auth token with regular login should work
 		When a new unrestricted client token is added
 		Then the HTTP status code should be "200"
-

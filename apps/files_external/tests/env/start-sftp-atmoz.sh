@@ -68,4 +68,3 @@ fi
 
 # create folder "upload" with correct permissions
 docker exec $container bash -c "mkdir /home/$user/upload && chown $user:users /home/$user/upload"
-

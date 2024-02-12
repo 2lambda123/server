@@ -11,4 +11,3 @@ fi;
 
 # cleanup
 rm $thisFolder/config.webdav.php
-

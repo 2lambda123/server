@@ -57,4 +57,3 @@ declare(strict_types=1);
 	<?php } ?>
 	</ul>
 </div>
-

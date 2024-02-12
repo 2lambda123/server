@@ -77,5 +77,3 @@ Feature: trashbin
 		Then user "user0" in trash folder "/" should have 1 elements
 		And user "user0" in trash folder "/testfolder" should have 0 element
 		And as "user0" the file "/textfile0.txt" exists
-
-
