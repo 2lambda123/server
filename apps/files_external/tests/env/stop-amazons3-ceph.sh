@@ -35,4 +35,3 @@ done;
 rm $thisFolder/config.amazons3.php
 rm $thisFolder/dockerContainerCeph.$EXECUTOR_NUMBER.amazons3
 rm $thisFolder/dockerContainerCeph.$EXECUTOR_NUMBER.amazons3.sock
-

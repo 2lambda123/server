@@ -34,4 +34,3 @@ done;
 # cleanup
 rm $thisFolder/config.ftp.php
 rm $thisFolder/dockerContainerMorrisJobke.$EXECUTOR_NUMBER.ftp
-

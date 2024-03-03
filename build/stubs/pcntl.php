@@ -47,4 +47,3 @@ define('SIGBABY', 31);
 define('PRIO_PGRP', 1);
 define('PRIO_USER', 2);
 define('PRIO_PROCESS', 0);
-

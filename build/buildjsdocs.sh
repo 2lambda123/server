@@ -38,4 +38,3 @@ fi
 mkdir -p "$OUTPUT_DIR"
 
 NODE_PATH="./node_modules" $JSDOC_BIN -d "$OUTPUT_DIR" $JS_FILES
-

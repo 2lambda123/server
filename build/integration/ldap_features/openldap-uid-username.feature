@@ -160,4 +160,3 @@ Feature: LDAP
     And "users" sharees returned are
       | Elisa | 0 | elisa |
     And "exact groups" sharees returned is empty
-

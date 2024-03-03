@@ -362,4 +362,3 @@ describe('OCA.Files.FileActionsMenu tests', function() {
 		});
 	});
 });
-
