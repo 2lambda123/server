@@ -168,4 +168,3 @@ Feature: LDAP
       | elisa  | 1 |
       | gustaf | 1 |
       | jesper | 1 |
-

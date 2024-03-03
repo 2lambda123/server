@@ -459,4 +459,3 @@ Feature: tags
     Then The response should have a status code "201"
     And "textfile0.txt" owned by "user0" has the following tags
       | Etiqueta |
-

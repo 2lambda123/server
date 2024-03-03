@@ -138,4 +138,3 @@
 
 	OCA.Files.DetailTabView = DetailTabView;
 })();
-

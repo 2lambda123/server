@@ -34,4 +34,3 @@ done;
 # cleanup
 rm $thisFolder/config.webdav.php
 rm $thisFolder/dockerContainerWebdav.$EXECUTOR_NUMBER.webdav
-

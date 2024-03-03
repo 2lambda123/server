@@ -88,4 +88,3 @@ class DyslexiaFont extends DefaultTheme implements ITheme {
 		";
 	}
 }
-

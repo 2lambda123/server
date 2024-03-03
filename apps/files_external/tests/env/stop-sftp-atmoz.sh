@@ -34,4 +34,3 @@ done;
 # cleanup
 rm $thisFolder/config.sftp.php
 rm $thisFolder/dockerContainerAtmoz.$EXECUTOR_NUMBER.sftp
-
