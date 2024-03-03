@@ -103,4 +103,3 @@ window.addEventListener('DOMContentLoaded', function () {
 		OCA.Files.RecentFileList = RecentFileList;
 	})(OCA);
 });
-

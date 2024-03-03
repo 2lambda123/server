@@ -407,4 +407,3 @@ describe('Backbone Webdav extension', function() {
 		});
 	});
 });
-

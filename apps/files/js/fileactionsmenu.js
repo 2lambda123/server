@@ -140,4 +140,3 @@
 	OCA.Files.FileActionsMenu = FileActionsMenu;
 
 })();
-

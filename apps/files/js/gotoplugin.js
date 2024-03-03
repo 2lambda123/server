@@ -61,4 +61,3 @@
 })(OCA);
 
 OC.Plugins.register('OCA.Files.FileList', OCA.Files.GotoPlugin);
-

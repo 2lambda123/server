@@ -65,5 +65,3 @@ if [ -n "$DEBUG" ]; then
     cat $thisFolder/config.ftp.php
     cat $thisFolder/dockerContainerMorrisJobke.$EXECUTOR_NUMBER.ftp
 fi
-
-

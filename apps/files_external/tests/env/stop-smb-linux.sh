@@ -18,4 +18,3 @@ fi;
 
 # cleanup
 rm $thisFolder/config.smb.php
-

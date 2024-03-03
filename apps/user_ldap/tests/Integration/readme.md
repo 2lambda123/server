@@ -57,4 +57,3 @@ This is quick solution for basically one test case. With expension this mechanis
 It does not run automatically, unless you do it. No integration with any testing framework.
 
 exceptionOnLostConnection.php is not part of this mechanism. Read its source and run it isolated. While you're at it, port it :þ
-
