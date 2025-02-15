@@ -86,7 +86,7 @@
     "moment-timezone": "^0.5.46",
     "natural-orderby": "^3.0.2",
     "nextcloud-vue-collections": "^0.10.0",
-    "node-vibrant": "^4.0.0",
+    "node-vibrant": "^4.0.3",
     "p-limit": "^6.2.0",
     "p-queue": "^8.0.1",
     "path": "^0.12.7",
