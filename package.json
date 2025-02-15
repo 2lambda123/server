@@ -169,7 +169,7 @@
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2",
     "sinon": "<= 19.0.3",
-    "style-loader": "^3.3.4",
+    "style-loader": "^4.0.0",
     "tar": "^7.4.3",
     "ts-jest": "^29.1.0",
     "ts-loader": "^9.4.3",
